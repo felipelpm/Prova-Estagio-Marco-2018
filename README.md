@@ -15,7 +15,7 @@ Faça um `fork` deste repositório. Todas as questões devem ser respondidas nes
 
 Escreva seu nome na linha 14 deste arquivo (README.md) e faça um `Pull Request` para o repositório original.
 
-##### Seu nome aqui.
+##### Felipe Lara Pfeifer Macedo
 
 ### c)
 ##### 2 pontos
