@@ -11,7 +11,7 @@
 Faça um `fork` deste repositório. Todas as questões devem ser respondidas neste novo repositório, seu, criado após o fork. 
 
 ### b)
-##### 2 pontos
+##### 2 pontos  Felipe Lara Pfeifer Macedo
 
 Escreva seu nome na linha 14 deste arquivo (README.md) e faça um `Pull Request` para o repositório original.
 
